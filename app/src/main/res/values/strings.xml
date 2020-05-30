@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">読書メモ帳</string>
+    <string name="app_login">ログイン</string>
+    <string name="app_createUsr">新しいアカウントを作成する</string>
+</resources>
